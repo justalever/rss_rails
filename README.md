@@ -2,7 +2,7 @@
 
 # How to create an RSS feed with Ruby on Rails
 
-_This source code is for a guide created on [https://web-crunch.com](https://web-crunch.com) and the [Web-Crunch YouTube channel](https://youtube.com/c/webcrunch). _
+_This source code is for a guide created on [https://web-crunch.com](https://web-crunch.com) and the [Web-Crunch YouTube channel](https://youtube.com/c/webcrunch)._
 
 
 Many moons ago, RSS was all the hype. With fewer publication engines like Medium, Substack, and other newsletter-style engines, most people would create their websites to house their content.
